@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/omarportfolio/static/css/main.04a61312.css",
-    "main.js": "/omarportfolio/static/js/main.697879d7.js",
+    "main.js": "/omarportfolio/static/js/main.473293fd.js",
     "static/media/omar.jpg": "/omarportfolio/static/media/omar.e9143e2b390e182f2339.jpg",
     "static/media/bg.jpg": "/omarportfolio/static/media/bg.ec01a4afb55f8c7a9b25.jpg",
     "index.html": "/omarportfolio/index.html",
     "main.04a61312.css.map": "/omarportfolio/static/css/main.04a61312.css.map",
-    "main.697879d7.js.map": "/omarportfolio/static/js/main.697879d7.js.map"
+    "main.473293fd.js.map": "/omarportfolio/static/js/main.473293fd.js.map"
   },
   "entrypoints": [
     "static/css/main.04a61312.css",
-    "static/js/main.697879d7.js"
+    "static/js/main.473293fd.js"
   ]
 }
