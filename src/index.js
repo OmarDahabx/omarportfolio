@@ -7,20 +7,29 @@ import {
   // Link,
 } from "react-router-dom";
 import App from './App';
+import Notfoundpage from './Notfoundpage';
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: (
-      <div>
+      <>
         <App/>
-      </div>
+      </>
     ),
   },
-  // {
-  //   path: "about",
-  //   element: <div>About</div>,
-  // },
+  {
+    path: "/omarportfolio",
+    element: <><App/></>,
+  },
+  {
+    path: "",
+    element: <><App/></>,
+  },
+  {
+    path: "*",
+    element: <><Notfoundpage/></>,
+  },
 ]);
 
 createRoot(document.getElementById("root")).render(
